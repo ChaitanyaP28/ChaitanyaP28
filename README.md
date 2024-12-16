@@ -1,3 +1,7 @@
-![Portfolio Screenshot](images/portfolio-screenshot.jpg)
+# Chaitanya Patange - Portfolio
 
-For more details, visit my [portfolio](https://sites.google.com/view/chaitanyapatange/home?authuser=0).
+Welcome to my official portfolio. You can view my full site here:
+
+[Chaitanya Patange Portfolio](https://sites.google.com/view/chaitanyapatange/home?authuser=0)
+
+Feel free to explore my projects, skills, and more!
