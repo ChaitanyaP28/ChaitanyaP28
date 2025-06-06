@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Patange</h1>
 
-<h2><p align="center"><img src="https://komarev.com/ghpvc/?username=chaitanyap28&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanyap28" />
+<p align="center"><img src="https://komarev.com/ghpvc/?username=chaitanyap28&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanyap28" />
   <a href="https://chaitanyap28.github.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-chaitanyap28.github.io-0e75b6?style=flat&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-</p></h2>
+</p><h2></h2>
 
 
 
@@ -12,17 +12,17 @@
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chaitanyaP28&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a></p>
 
-<h2><p align="center" style="text-align:center;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanyap28&show_icons=true&locale=en&layout=compact" alt="chaitanyap28" width="300"/>
+<p align="center" style="text-align:center;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanyap28&show_icons=true&locale=en&layout=compact" alt="chaitanyap28" width="300"/>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=chaitanyap28&rank_icon=github" 
     alt="chaitanyap28" 
     width="380" />
-</p></h2>
+</p><h2></h2>
 
 
 <h3 align="left">Connect with me:</h3>
 
-<h2><p>
+<p>
   <a href="https://www.linkedin.com/in/chaitanya-patange-b1b769220" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="height:35px; vertical-align:middle;"></a>
   <a href="https://github.com/ChaitanyaP28" target="_blank" rel="noopener noreferrer">
@@ -51,7 +51,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/32px-Gmail_icon_%282020%29.svg.png" alt="Gmail" style="height:35px; vertical-align:middle;"></a>
   <a href="https://www.hackerearth.com/@chaitanyapatange/" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/32px-HackerEarth_logo.png" alt="HackerEarth" style="height:35px; vertical-align:middle;"></a>
-</p></h2>
+</p><h2></h2>
 
 
 <h3 align="left">Languages and Tools:</h3>
