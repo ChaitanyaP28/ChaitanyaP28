@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 28px; font-weight: bold;">Hi 👋, I'm Chaitanya Patange</p>
+<p align="center" style="font-size: 28px; font-weight: bold;">Hi 👋, I'm Chaitanya</p>
 
 
 <p align="center"><a href="https://github.com/ChaitanyaP28" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=chaitanyap28&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanyap28" />
