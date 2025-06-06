@@ -7,16 +7,16 @@
 
 
 
-<p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=chaitanyap28" alt="chaitanyap28" /></a> </p>
+<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=chaitanyap28" alt="chaitanyap28" /></a> </p>
 
-<p align="center"><a><img src="https://github-readme-streak-stats.herokuapp.com?user=chaitanyaP28&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a></p>
+<p align="center"><a href=""><img src="https://github-readme-streak-stats.herokuapp.com?user=chaitanyaP28&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a></p>
 
-<p align="center" style="text-align:center;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanyap28&show_icons=true&locale=en&layout=compact" alt="chaitanyap28" width="300"/>
-  <img 
+<p align="center" href="" style="text-align:center;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanyap28&show_icons=true&locale=en&layout=compact" alt="chaitanyap28" width="300"/>
+  <a href=""><img 
     src="https://github-readme-stats.vercel.app/api?username=chaitanyap28&rank_icon=github" 
     alt="chaitanyap28" 
     width="380" />
-</p><h2></h2>
+<h2></h2>
 
 
 <h3 align="left">Connect with me:</h3>
