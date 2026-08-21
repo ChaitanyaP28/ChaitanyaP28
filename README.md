@@ -39,6 +39,7 @@ My interests include:
 - 🚁 **UAV Communication Systems**
 - ⚡ **GPU & CUDA Programming**
 - 🤖 **AI/ML**
+- 🍓 **Raspberry Pi & Arduino**
 
 I enjoy turning ideas into **real-world systems using SDR and hardware**.
 
@@ -61,7 +62,7 @@ I enjoy turning ideas into **real-world systems using SDR and hardware**.
 ### Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash,matlab,mysql,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash,matlab,mysql,nodejs,rust" />
   <img src="https://cdn.simpleicons.org/riscv" height="48" alt="RISC-V" />
   <img src="./imgs/vhdl.png" height="48" alt="VHDL" />
 </p>
