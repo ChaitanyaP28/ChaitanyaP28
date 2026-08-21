@@ -25,28 +25,31 @@ M.Tech Graduate | Satellite Communication | SDR | 5G/ 6G | UAV Communication
 
 # 👨‍💻 $WhoAmI (About Me)
 
-<table>
-<tr>
-<td width="65%" valign="top">
+<table border="0" style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td width="65%" valign="top" style="border: none;">
 
 I am an engineer and researcher passionate about **satellite communication, space technology and building real-world wireless communication and networking systems**.
 
 My interests include:
 
-* 🛰️ **Satellite & Non-Terrestrial Networks (NTN)**
-* 📡 **5G/6G & Open RAN**
-* 📻 **Software Defined Radio (SDR)**
-* 🚁 **UAV Communication Systems**
-* ⚡ **GPU & CUDA Programming**
-* 🤖 **AI/ML**
+- 🛰️ **Satellite & Non-Terrestrial Networks (NTN)**
+- 📡 **5G/6G & Open RAN**
+- 📻 **Software Defined Radio (SDR)**
+- 🚁 **UAV Communication Systems**
+- ⚡ **GPU & CUDA Programming**
+- 🤖 **AI/ML**
 
 I enjoy turning ideas into **real-world systems using SDR and hardware**.
 
 </td>
 
-<td width="35%" align="center">
-<img src="./imgs/code1.gif" width="250" alt="Working" />
+<td width="35%" align="center" style="border: none;">
+
+<img src="./imgs/code1.gif" width="250" alt="code1" />
+
 <img src="./imgs/working.gif" width="250" alt="Working" />
+
 <!-- <img src="./imgs/code2.gif" width="250" alt="Working" /> -->
 
 </td>
@@ -60,7 +63,7 @@ I enjoy turning ideas into **real-world systems using SDR and hardware**.
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash,matlab,mysql,nodejs" />
   <img src="https://cdn.simpleicons.org/riscv" height="48" alt="RISC-V" />
-  <img src="https://cdn.simpleicons.org/amd" height="48" alt="AMD Xilinx" />
+  <img src="./imgs/vhdl.png" height="48" alt="VHDL" />
 </p>
 
 
