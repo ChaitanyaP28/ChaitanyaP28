@@ -104,7 +104,7 @@ I enjoy turning ideas into **real-world systems using SDR and hardware**.
 
 <p>
 <img src="./imgs/CST.png" height="48" alt="CST Studio" />
-<img src="./imgs/FEKO.jpeg" height="48" alt="Altair FEKO" />
+<img src="./imgs/FEKO.png" height="48" alt="Altair FEKO" />
 </p>
 
 ### Circuit Simulation
